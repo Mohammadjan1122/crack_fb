@@ -7,7 +7,7 @@ y </s> </s> outube chanel    https://www.youtube.com/channel/UCKX5IrKQsIhejUw8eP
 telegram https://t.me/sultani1122
 </s> </s>
 فرمان دادن 
-hh</s></s>hhhpkg up -y
+pkg up -y
 
 pkg install git -y
 
